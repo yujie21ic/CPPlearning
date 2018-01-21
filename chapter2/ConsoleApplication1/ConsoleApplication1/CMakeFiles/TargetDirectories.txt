@@ -1,3 +1,0 @@
-C:/CPPlearning/chapter2/ConsoleApplication1/ConsoleApplication1/CMakeFiles/ConsoleApplication1.dir
-C:/CPPlearning/chapter2/ConsoleApplication1/ConsoleApplication1/CMakeFiles/ALL_BUILD.dir
-C:/CPPlearning/chapter2/ConsoleApplication1/ConsoleApplication1/CMakeFiles/ZERO_CHECK.dir
